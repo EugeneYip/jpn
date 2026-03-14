@@ -1,4 +1,4 @@
-# Japanese Learning Guide
+# Learn Japanese
 
 If `Deploy from a branch` works but selecting `GitHub Actions` appears to do nothing, check these in order:
 
