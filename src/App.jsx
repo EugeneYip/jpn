@@ -1630,7 +1630,6 @@ export default function JapaneseGuide() {
         <div className="mt-20 border-t border-stone-200 pt-8 text-center text-sm text-stone-400">
           <p>Japanese Learning Guide<br />
               © 2026 EugeneYip.com All Rights Reserved.</p>
-          <p className="mt-1">Open this page daily. Consistency beats intensity.</p>
         </div>
       </div>
     </div>
